@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXCharts_VisibilityInPane/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXCharts_VisibilityInPane/MainWindow.xaml))
+<!-- default file list end -->
 # How to show or hide an axis in a multi-pane chart
 
 
