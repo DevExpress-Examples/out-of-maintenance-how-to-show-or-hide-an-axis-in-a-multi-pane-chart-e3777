@@ -31,8 +31,8 @@
                                 <dxc:SeriesPoint Argument="c" Value="8" />
                             </dxc:BarSideBySideSeries2D.Points>
                         </dxc:BarSideBySideSeries2D>
-                        <dxc:BarSideBySideSeries2D 
-                                    dxc:XYDiagram2D.SeriesPane="{Binding ElementName=pane2}" >
+                        <dxc:BarSideBySideSeries2D
+                                   dxc:XYDiagram2D.SeriesPane="{Binding ElementName=pane2}" >
                             <dxc:BarSideBySideSeries2D.Points>
                                 <dxc:SeriesPoint Argument="a" Value="1" />
                                 <dxc:SeriesPoint Argument="b" Value="2" />
